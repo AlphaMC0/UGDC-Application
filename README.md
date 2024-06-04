@@ -16,8 +16,8 @@
 **Club Structure :** 
 
 **Club Phases :** UGDC is split into 2 phases :
-                  - **PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small projects in this phase done individually.
-                  - **PHASE 2** unlike **PHASE 1** has only 1 project, the **FINAL PROJECT**, the final project is the project that will require all the skills you have learned in **PHASE 1** of the club.
+- **PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small projects in this phase done individually.
+- **PHASE 2** unlike **PHASE 1** has only 1 project, the **FINAL PROJECT**, the final project is the project that will require all the skills you have learned in **PHASE 1** of the club.
 
 **FINAL PROJECT :** The **FINAL PROJECT** is an evaluation of the skills you 
 

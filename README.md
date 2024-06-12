@@ -23,15 +23,19 @@
 - 
 - **PHASE 2** unlike **PHASE 1** has only 1 project, the **FINAL PROJECT**, the final project is the project that will require all the skills you have learned in **PHASE 1** of the club.
 
-**What goes in to making a game**
-- planning and deciding on a theme
-- sticking to a plan
-- 
-
-
 **Game Themes**
 - Sci-Fi
 - Adventure/Exploration 
 - Racing
 - Fantasy
 - Espionage
+
+**What goes in to making a game**
+- Devloping a plan and a story for the game based on the theme your team choose.
+- Design : Build the enviroment of the game, envolves meticulously designing small details for the enviroment.
+- Character Animation : Animate the character that will be the player.
+- UI Design : Design and program the User Interface that the player will interact with.
+- Items and Interactions : Add and program the items and interactions you plan for the player to have access to.
+
+
+

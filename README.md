@@ -11,7 +11,7 @@
 
 **Laptop Requirement :** Though 8GB of ram is fine but we recommend to have at least 16GB. 
 
-**Available Spots :** There are 9 available spots in the club open. If you wish to apply fill out this [**Form**]() , please note you have to fill out the form individually not in                        groups.
+**Available Spots :** There are 9 available spots in the club open. If you wish to apply fill out this [**Form**](https://forms.gle/fsUaYrV4isZp4cSz5) , please note you have to fill out the form individually not in                        groups.
 
 **Club Structure :** There will be 3 teams consisting of 3 people. Each team will be assigned to a mentor who will help the team throughout the process of game development. 
 - Animator: Lida

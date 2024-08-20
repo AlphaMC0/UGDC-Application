@@ -1,4 +1,4 @@
-# UGDC-About
+# UGDC-Application
 
 **UGDC** formally known as Unity Game Development Club, is a club founded for students to express their creativity though the development games.
 

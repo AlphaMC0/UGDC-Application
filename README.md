@@ -23,7 +23,7 @@
 
 **UI Manager:** Pannin
 
-**Club Phases :** UGDC is split into 2 phases :
+# Club Phases
 
 **PHASE 1:**
 

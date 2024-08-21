@@ -14,14 +14,24 @@
 **Available Spots :** There are 9 available spots in the club open. If you wish to apply fill out this [**Form**](https://forms.gle/fsUaYrV4isZp4cSz5) , please note you have to fill out the form individually not in                        groups.
 
 **Club Structure :** There will be 3 teams consisting of 3 people. During the devlopment of games for the **Final Project** students can ask a mentor for help if they run into any bugs that they can't fix by themselves.
-- Animator: Lida
-- Designer: Lising
-- UI Manager: Pannin
+
+**Mentors:**
+
+**Designer:** Lising
+
+**Animator:** Lida
+
+**UI Manager:** Pannin
 
 **Club Phases :** UGDC is split into 2 phases :
-- **PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small projects in this phase done individually. At the end of this phase teams will be assigned based upon the skills you have displayed during **PHASE 1**.
+
+**PHASE 1:**
+
+**PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small individual projects in this phase.               At the end of this phase teams will be assigned based upon the skills you have displayed during **PHASE 1**.
   
-- **PHASE 2** unlike **PHASE 1** has only 1 project, the **FINAL PROJECT**, the final project is the project that will require all the skills you have learned in **PHASE 1** of the club.
+**PHASE 2** 
+
+**PHASE 2** starts after the **PHASE 1** ends and teams have been assigned, **PHASE 2** only has 1 assignment, the **FINAL PROJECT**. The **FINAL PROJECT** will be presented to the             school at the end of the year.
 
 **Game Themes**
 - Sci-Fi

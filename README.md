@@ -9,7 +9,7 @@
 - Understanding of some computing languages, preferably C# 
 - Commitment 
 
-**Laptop Requirement :** Though 8GB of ram is fine but we recommend to have at least 16GB. 
+**Laptop Requirement :** Though 8GB of ram is fine but we recommend to have at least 16GB, core i5 at least, decent GPU (capable of running 
 
 **Available Spots :** There are 9 available spots in the club open. If you wish to apply fill out this [**Form**](https://forms.gle/fsUaYrV4isZp4cSz5) , please note you have to fill out the form individually not in                        groups.
 

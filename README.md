@@ -39,11 +39,9 @@
 
 #
 
-**If you have any questions email us.**
-
-#
-
 #### [**General Information**](https://github.com/Nox-Erebos/UGDC-Application/blob/main/GI.md)
+
+**If you have any questions email us.**
 
 #
 

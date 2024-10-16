@@ -23,14 +23,16 @@
 
 **UI Manager:** Pannin
 
-> **Club Phases**
 #
+
+> **Club Phases**
 
 **PHASE 1:**
 
 **PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small individual projects in this phase.
 
 #
+
 **PHASE 2** 
 
 **PHASE 2** consists of the **Final Project**. Club members will be divided into teams of 3 in this phase. The final project will assess the students on the skills they have gained in the duration of phase 1 of the club. At the end of phase 2 club member will display their game to the school.
@@ -38,7 +40,6 @@
 #
 
 > **General Information**
-#
 
 **Game Themes**
 - Sci-Fi

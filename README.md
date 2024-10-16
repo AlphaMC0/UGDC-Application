@@ -53,4 +53,4 @@
 
 #
 
-**Partners: Surge Studios**
+**Partners: Surge Studios** **(surgestudiosugdt@gmail.com)**

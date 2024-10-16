@@ -37,5 +37,4 @@
 
 **PHASE 2** consists of the **Final Project**. Club members will be divided into teams of 3 in this phase. The final project will assess the students on the skills they have gained in the duration of phase 1 of the club. At the end of phase 2 club member will display their game to the school.
 
-#
-
+#### [**General Information**](

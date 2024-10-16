@@ -1,4 +1,4 @@
-> **General Information**
+# General Information
 
 **Game Themes**
 - Sci-Fi

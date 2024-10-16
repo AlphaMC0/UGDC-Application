@@ -23,7 +23,8 @@
 
 **UI Manager:** Pannin
 
-**> Club Phases**
+> **Club Phases**
+#
 
 **PHASE 1:**
 
@@ -36,7 +37,8 @@
 
 #
 
-**> General Information**
+> **General Information**
+#
 
 **Game Themes**
 - Sci-Fi

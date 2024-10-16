@@ -52,3 +52,7 @@
 **Organization: Unity Game Development Club**
 
 **Email: unity@jpa.org.kh**
+
+#
+
+**Partners: Surge Studios**

@@ -27,13 +27,12 @@
 
 **PHASE 1:**
 
-**PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small individual projects in this phase. At the end of this phase, teams will be 
-            assigned based upon the skills you have displayed during **PHASE 1**.
+**PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small individual projects in this phase.
 
 #
 **PHASE 2** 
 
-**PHASE 2** starts after the **PHASE 1** ends and teams have been assigned, **PHASE 2** only has 1 assignment, the **FINAL PROJECT**. The **FINAL PROJECT** will be presented to the school at the end of the year.
+**PHASE 2** consists of the **Final Project**. Club members will be divided into teams of 3 in this phase. The final project will assess the students on the skills they have gained in the duration of phase 1 of the club. At the end of phase 2 club member will display their game to the school.
 
 #
 **Game Themes**
@@ -45,7 +44,7 @@
 
 **What goes into making a game**
 
-- Plan: Develop a plan and a story for the game based on the theme your team choose.
+- Plan: Develop a plan and a story for the game based on the theme your team chooses.
 - Design: Building the environment of the game, involves meticulously designing small details for the environment.
 - Character Animation: Animate the character that will be the player.
 - UI Design: Design and program the user interface with which the player will interact.

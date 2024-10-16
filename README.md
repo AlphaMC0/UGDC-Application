@@ -26,16 +26,16 @@
 # Club Phases
 
 **PHASE 1:**
-#
 
 **PHASE 1** starts at the beginning of the club and is when new club members are taught how to create simple games, there will be lots of small individual projects in this phase. At the end of this phase, teams will be 
             assigned based upon the skills you have displayed during **PHASE 1**.
-  
-**PHASE 2** 
+
 #
+**PHASE 2** 
 
 **PHASE 2** starts after the **PHASE 1** ends and teams have been assigned, **PHASE 2** only has 1 assignment, the **FINAL PROJECT**. The **FINAL PROJECT** will be presented to the school at the end of the year.
 
+#
 **Game Themes**
 - Sci-Fi
 - Adventure/Exploration 

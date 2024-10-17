@@ -45,7 +45,7 @@
 
 #
 
-**Written by: Nox_Erebos, Aimi**
+**Authors: Nox_Erebos, Aimi**
 
 **Organization: Unity Game Development Club**
 

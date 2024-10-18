@@ -9,6 +9,8 @@
 - Understanding of some computing languages, preferably C# 
 - Commitment 
 
+**Club Room:** H5
+
 **Laptop Requirement:** Though 8GB of RAM is fine we recommend having at least 16GB, a core i5, a decent GPU (capable of running Unity)
 
 **Available Spots:** There are 6 available spots in the club open. If you wish to apply fill out this [**Form**](https://forms.gle/fsUaYrV4isZp4cSz5), please note you have to fill out the form individually not in                        groups.
@@ -22,6 +24,10 @@
 **Animator:** Lida
 
 **UI Manager:** Pannin
+
+#
+
+**Deadline:** 
 
 #
 

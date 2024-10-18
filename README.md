@@ -17,7 +17,11 @@
 
 **Club Structure:** There will be 2 teams consisting of 3 people. During the development of games for the **Final Project** students can ask a mentor for help if they run into any bugs that they can't fix by themselves.
 
-**Mentors:**
+**Class Range:** 9 - 12
+
+**Deadline:** 
+
+**Mentors**
 
 **Designer:** Lising
 
@@ -25,9 +29,7 @@
 
 **UI Manager:** Pannin
 
-#
 
-**Deadline:** 
 
 #
 

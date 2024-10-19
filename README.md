@@ -53,7 +53,7 @@
 
 #
 
-**Authors: Nox_Erebos, Aimi**
+**Authors: Lising Suy, Lida San**
 
 **Organization: Unity Game Development Club**
 
